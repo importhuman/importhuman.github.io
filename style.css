@@ -1,0 +1,16 @@
+.logo {
+  font-family: monospace;
+}
+
+body.dark-theme {
+    --background: #393c42;
+}
+
+html, body {
+    min-height: 100%;
+}
+
+.index-content {
+    padding-left: 10vw;
+    padding-right: 10vw;
+}
