@@ -10,7 +10,6 @@ html, body {
     min-height: 100%;
 }
 
-.index-content {
-    padding-left: 10vw;
-    padding-right: 10vw;
+.container {
+    text-align: left;
 }
