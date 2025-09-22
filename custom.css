@@ -1,0 +1,16 @@
+.talks-content {
+    text-align: left;
+}
+
+.socials-block {
+    text-align: center;
+    margin-top: 1.5em;
+}
+
+.resume-content h2 {
+    margin-top: 1em; /* Reduce top margin for h2 */
+}
+
+.resume-content h3 {
+    margin-top: 0.8em; /* Reduce top margin for h3 */
+}
