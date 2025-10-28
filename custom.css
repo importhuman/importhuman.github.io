@@ -14,3 +14,11 @@
 .resume-content h3 {
     margin-top: 0.8em; /* Reduce top margin for h3 */
 }
+
+.details-content {
+    padding-left: 1.5em;
+}
+
+blockquote {
+    margin: 0;
+}
